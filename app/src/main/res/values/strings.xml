@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorLis</string>
+    <string name="textview1">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textView1">센서가 설치 되었습니다</string>
+    <string name="textView2">_________________________</string>
+</resources>
